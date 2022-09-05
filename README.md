@@ -13,6 +13,7 @@ I started with html & js, but realized that I'm more of an app developer and the
 *   🧠  I'm learning Flutter an open source framework by Google for building beautiful, natively compiled, multi-platform applications from a single codebase.
 *   🤝  I'm open to collaborating on anything related to tennis & crypto.
 *   ⚡  I am very determined and I know how to overcome difficult obstacles
+
 <a href="https://www.twitter.com/Jetoshi1" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/Jetoshi1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.github.com/JetoshiTBT" target="_blank" rel="noreferrer"><img
